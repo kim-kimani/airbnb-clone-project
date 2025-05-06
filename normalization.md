@@ -1,7 +1,7 @@
 # Airbnb Database Normalization to 3NF
 
 ## Objective
-Ensure the Airbnb database schema is normalized to Third Normal Form (3NF) to eliminate redundancy and dependency anomalies.
+The Airbnb database schema is normalized to Third Normal Form (3NF) to eliminate redundancy and dependency anomalies.
 
 ---
 
