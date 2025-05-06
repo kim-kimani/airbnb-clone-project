@@ -61,10 +61,3 @@ This project defines the database schema for a simplified Airbnb-like platform u
 - Indexes on commonly queried fields like:
   - `email`, `host_id`, `property_id`, `user_id`, `booking_id`
 
-## Getting Started
-
-1. Clone the repo:
-
-```bash
-git clone https://github.com/your-username/alx-airbnb-database.git
-cd alx-airbnb-database
